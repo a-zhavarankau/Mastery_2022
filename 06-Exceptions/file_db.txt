@@ -1,0 +1,5 @@
+Cat Barsik Male Gray
+Dog Chrispy Female White
+Dog Chuck Male Black
+Cat Leya Female Black
+Cat Julia Female Ginger

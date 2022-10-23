@@ -1,0 +1,4 @@
+Name,Surname,Salary,Currency,Federal tax,State tax,Property tax,Salary after tax
+Jimmy,McGill,9000,USD,1215.0,1350.0,900.0,5535.0
+Michael,Ermantraut,15000,USD,2025.0,2250.0,0,10725.0
+Ignacio,Varga,7000,USD,945.0,1050.0,0,5005.0

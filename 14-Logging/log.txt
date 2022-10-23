@@ -1,0 +1,5 @@
+2022-10-20 15:11:15,225 - custom_logger - DEBUG - Data size: 53
+2022-10-20 15:11:15,225 - custom_logger - DEBUG - Important task has been started
+2022-10-20 15:11:15,225 - custom_logger - DEBUG - Important task has been ended
+2022-10-20 15:11:15,225 - custom_logger - DEBUG - Not important task has been started
+2022-10-20 15:11:15,225 - custom_logger - DEBUG - Not important task has been ended
