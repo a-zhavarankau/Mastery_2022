@@ -55,7 +55,7 @@ def create_classes_from_file(filename) -> dict:
     return classes
 
 
-def create_classes(filename) -> dict:
+def create_all_classes(filename) -> dict:
     # Create all classes from 1 to 11
     existing_classes = create_classes_from_file(filename)
     for class_num in range(1, 12):
@@ -65,7 +65,7 @@ def create_classes(filename) -> dict:
 
 
 def print_classes(filename):
-    classes = create_classes(filename)
+    classes = create_all_classes(filename)
     for class_num in range(1, 12):
         print(classes[class_num].get_class_info())
 
